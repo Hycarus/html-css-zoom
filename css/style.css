@@ -52,13 +52,12 @@ body{
     justify-content: center;
     overflow-y: scroll;
 }
-.card{
-    padding: 30px 5px;
-    position: relative;
-}
+
 .card{
     width: calc(100vw / 7 - 20px);
     height: calc((100vw / 7 - 20px)) / 2;
+    padding: 30px 5px;
+    position: relative;
 }
 .mic{
     font-size: 0.7em;
