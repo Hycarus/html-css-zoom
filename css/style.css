@@ -105,6 +105,9 @@ img{
     flex-direction: column;
     align-items: center;
 }
+.left-bar .flex div{
+    font-size: 0.9em;
+}
 
 .center-bar .flex{
     flex-direction: column;
@@ -113,4 +116,16 @@ img{
 
 .center-bar > div{
     padding: 0 10px;
+}
+
+.center-bar .flex div{
+    font-size: 0.9em;
+}
+
+.center-bar .flex > div{
+    padding: 5px 0;
+}
+
+.green{
+    color: var(--color-icon-green);
 }
