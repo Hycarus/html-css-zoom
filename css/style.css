@@ -36,7 +36,6 @@ body{
     justify-content: flex-end;
     height: 100px;
     width: 100%;
-    z-index: 1000;
     background-color: var(--color-bg);
 }
 .nav-bar div{
