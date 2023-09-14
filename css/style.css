@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* palette colori */
+
+:root{
+    --color-bg: #000000;
+    --color-play-bar: #222222;
+    --color-text-red: #cc2227;
+    --color-text-white: #ffffff;
+}
+/* utility  */
+
+
+body{
+    background-color: var(--color-bg);
+}
+
+.nav-bar{
+    
+}
